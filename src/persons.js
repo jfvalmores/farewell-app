@@ -62,7 +62,7 @@ export const Persons = [
     image: JustineProfile,
     message: `You’ve been an incredible teammate, and your contributions have greatly advanced our team’s progress. 
             Your hard work and dedication have not gone unnoticed. 
-            Wishing you all the best in your future endeavors—I'm confident you’ll continue to achieve great things.`,
+            Wishing you all the best in your future endeavors—I'm confident you’ll continue to achieve great things. 🚀`,
     name: 'Justine',
   },
   {
