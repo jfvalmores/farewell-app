@@ -24,14 +24,6 @@ export const Persons = [
             faucibus arcu eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu
             libero fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse
             potenti. Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus
-            vitae tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta
-            faucibus arcu eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu
-            libero fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse
-            potenti. Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus
-            vitae tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta
-            faucibus arcu eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu
-            libero fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse
-            potenti. Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus
             vitae tristique.`,
     name: 'Vijil',
   },
@@ -47,11 +39,7 @@ export const Persons = [
   },
   {
     image: PhilipProfile,
-    message: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta faucibus arcu
-            eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu libero
-            fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse potenti.
-            Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus vitae
-            tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
+    message: `Crazy to think it's been almost 1 year and 6 months since you joined already. Time flies when you're having fun! Thanks for all the hard work and great contributions, I wish you all the best in your next adventure!`,
     name: 'Philip',
   },
   {
