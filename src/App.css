@@ -45,6 +45,19 @@
 .message {
   display: flex;
   gap: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  padding: 1rem;
+
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+  transform: scale(1);
+
+  &:hover {
+    border: 1px solid greenyellow;
+    transform: scale(1.01);
+    transition: all 0.2s ease-in-out;
+  }
 }
 
 .post {
