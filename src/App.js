@@ -56,11 +56,7 @@ function App() {
         <div className='message' title='Fredrik'>
           <img className='profile-image' src={FredrikProfile} alt='fredrik' />
           <p className='post'>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta faucibus arcu
-            eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu libero
-            fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse potenti.
-            Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus vitae
-            tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉
           </p>
         </div>
         <div className='message' title='Norbert'>
