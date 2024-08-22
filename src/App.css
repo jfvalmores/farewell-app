@@ -9,7 +9,7 @@
 }
 
 .confetti {
-  position: fixed;
+  position: fixed !important;
 }
 
 .confetti-toggle {
