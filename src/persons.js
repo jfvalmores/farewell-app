@@ -42,11 +42,7 @@ export const Persons = [
   },
   {
     image: NorbertProfile,
-    message: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta faucibus arcu
-            eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu libero
-            fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse potenti.
-            Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus vitae
-            tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
+    message: `I just wanted to say thanks for being such an awesome colleague. You brought some great ideas to the table and really helped with the audit storage revamp. It’s been great working with you, and I’m really going to miss our teamwork. Best of luck with everything ahead!`,
     name: 'Norbert',
   },
   {
