@@ -1,0 +1,52 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.header {
+  margin: 2rem;
+}
+
+.confetti {
+  position: fixed;
+}
+
+.confetti-toggle {
+  border-radius: 1rem;
+  font-size: 2rem;
+  height: 3rem;
+  width: 4rem;
+}
+
+.profile-image {
+  border-radius: 50%;
+  height: 3rem;
+  margin: 1rem 0;
+  width: 3rem;
+}
+
+.main-character {
+  height: 10rem;
+  width: 10rem;
+}
+
+.messages {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 0 10rem;
+
+  @media only screen and (max-width: 600px) {
+    margin: 1rem;
+  }
+}
+
+.message {
+  display: flex;
+  gap: 1rem;
+}
+
+.post {
+  text-align: left;
+}
