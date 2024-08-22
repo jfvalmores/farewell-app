@@ -8,7 +8,11 @@ import { MainPerson, Persons } from './persons';
 function App() {
   const { width, height } = useWindowSize();
   const [hasConfetti, setHasConfetti] = useState(true);
-
+  const [confettiIcon, setConfettiIcon] = useState('🎉');
+  const toggleConfetti = () => {
+    setHasConfetti(!hasConfetti);
+    setConfettiIcon(hasConfetti ? '😔' : '🎉');
+  };
   return (
     <div className='app'>
       <div className='header'>
@@ -20,12 +24,8 @@ function App() {
         {hasConfetti && <Confetti className='confetti' width={width} height={height} />}
         <h1>{MainPerson.header}</h1>
         <p>{MainPerson.description}</p>
-        <button
-          className='confetti-toggle'
-          type='button'
-          onClick={() => setHasConfetti(!hasConfetti)}
-        >
-          🎉
+        <button className='confetti-toggle' type='button' onClick={toggleConfetti}>
+          {confettiIcon}
         </button>
       </div>
       <div className='messages'>
