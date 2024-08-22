@@ -63,11 +63,7 @@ export const Persons = [
   },
   {
     image: JayProfile,
-    message: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta faucibus arcu
-            eget aliquet. Donec porta velit efficitur rhoncus tempus. Sed in ligula eu libero
-            fringilla hendrerit ac at nibh. Ut euismod vulputate pellentesque. Suspendisse potenti.
-            Donec feugiat enim nec sem ultrices blandit. Pellentesque rhoncus lacinia purus vitae
-            tristique. Lorem ipsum dolor sit amet, consectetur adipiscing elit.`,
+    message: `This is Jay, he will replace Enrique :pray:.`,
     name: 'Jay',
   },
 ];
