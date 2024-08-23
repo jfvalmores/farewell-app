@@ -43,7 +43,7 @@ export const Persons = [
   },
   {
     image: JayProfile,
-    message: `This is Jay, he will replace Enrique :pray:.`,
+    message: `This is Jay, he will replace Enrique.`,
     name: 'Jay',
   },
 ];
