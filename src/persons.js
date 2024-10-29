@@ -51,7 +51,7 @@ export const Persons = [
   },
   {
     image: JayProfile,
-    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
+    message: `You are by far one of the smartest developer I've met and also one of the most understanding 🙌🏽 Thank you for trusting me to be a part of your team and I hope to meet you in the near future 🤘🏽`,
     name: 'Jay',
   },
 ];
