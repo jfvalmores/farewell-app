@@ -46,7 +46,10 @@ export const Persons = [
   },
   {
     image: JustineProfile,
-    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
+    message: `It's been an honor working with you! Your expertise as a developer, tech lead, and mentor 
+    have shaped our project in incredible ways. Your guidance and support have been invaluable, and I'm so grateful 
+    for everything you've contributed. Thank you for everything — I'm wishing you all the best in the tech world, 
+    and I hope we'll cross paths again! 🚀✨`,
     name: 'Justine',
   },
   {
