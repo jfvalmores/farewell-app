@@ -3,7 +3,7 @@ import Confetti from 'react-confetti';
 import { useState } from 'react';
 
 import './App.css';
-import { MainPerson, Persons } from './persons';
+import { MainPerson, Persons, Gallery } from './persons';
 
 function App() {
   const { width, height } = useWindowSize();
@@ -28,9 +28,16 @@ function App() {
           {confettiIcon}
         </button>
       </div>
+      <div className='gallery'>
+        {Gallery.map((item, index) => (
+          <div className='gallery-item' key={`gallery_${index}`}>
+            <img src={item.image} alt={item.description} />
+          </div>
+        ))}
+      </div>
       <div className='messages'>
-        {Persons.map((person) => (
-          <div className='message' title={person.name}>
+        {Persons.map((person, index) => (
+          <div key={`person_${index}`} className='message' title={person.name}>
             <img className='profile-image' src={person.image} alt={person.name} />
             <p className='post'>{person.message}</p>
           </div>

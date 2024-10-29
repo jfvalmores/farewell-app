@@ -1,6 +1,7 @@
 .app {
   display: flex;
   flex-direction: column;
+  gap: 2rem;
   text-align: center;
 }
 
@@ -69,4 +70,22 @@
 
 .post {
   text-align: left;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gallery-item {
+  width: 30rem;
+
+  @media only screen and (max-width: 600px) {
+    width: 20rem;
+  }
+}
+
+.gallery-item > img {
+  width: 100%;
 }
