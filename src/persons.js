@@ -36,24 +36,22 @@ export const Persons = [
   },
   {
     image: NorbertProfile,
-    message: `I just wanted to say thanks for being such an awesome colleague. You brought some great ideas to the table and really helped with the audit storage revamp. It’s been great working with you, and I’m really going to miss our teamwork. Best of luck with everything ahead!`,
+    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
     name: 'Norbert',
   },
   {
     image: PhilipProfile,
-    message: `Crazy to think it's been almost 1 year and 6 months since you joined already. Time flies when you're having fun! Thanks for all the hard work and great contributions, I wish you all the best in your next adventure!`,
+    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
     name: 'Philip',
   },
   {
     image: JustineProfile,
-    message: `You’ve been an incredible teammate, and your contributions have greatly advanced our team’s progress. 
-            Your hard work and dedication have not gone unnoticed. 
-            Wishing you all the best in your future endeavors—I'm confident you’ll continue to achieve great things. 🚀`,
+    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
     name: 'Justine',
   },
   {
     image: JayProfile,
-    message: `This is Jay.`,
+    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
     name: 'Jay',
   },
 ];
