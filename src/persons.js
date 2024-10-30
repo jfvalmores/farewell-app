@@ -36,7 +36,10 @@ export const Persons = [
   },
   {
     image: NorbertProfile,
-    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
+    message: `It was incredible working with you! All the broad enterprise experience you brought to the table was and is invaluable! 
+    I especially liked how no issue was too small to discuss and I could always ask you a question without feeling like I was wasting your time. 
+    You managed to teach me kubernetes, observability and oidc, which without your guidance I would have struggled to do so. 
+    I know that I could have learned much more if we had more time. 🎉🎉🎉`,
     name: 'Norbert',
   },
   {
