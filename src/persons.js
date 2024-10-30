@@ -44,7 +44,7 @@ export const Persons = [
   },
   {
     image: PhilipProfile,
-    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
+    message: `Thank you so much for almost 3 fantastic years of getting to pick your brain! You truly are a database of knowledge and I'm grateful to have been able to work with you! 🥳`,
     name: 'Philip',
   },
   {
