@@ -31,7 +31,7 @@ export const Gallery = [
 export const Persons = [
   {
     image: FredrikProfile,
-    message: `Thanks for all the great work and being a great colleague! Wish you the best! 🎉🎉🎉`,
+    message: `A lot have happened in the last 7 years we have worked together. From a shaky not so functional environment to what it is today. Been extremely educative to see your brilliance - from low level programming decisions to more high level design choices. This combined with your sympathetic and peace minded persona is one of a kind. A great loss for PostNord. See you soon again! 😁`,
     name: 'Fredrik',
   },
   {
